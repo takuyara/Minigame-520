@@ -1,0 +1,11 @@
+﻿  Object.cpp
+  Status.cpp
+D:\hope\dyc520\dyc520\windowsize.h(12,39): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\hope\dyc520\dyc520\windowsize.h(12,39): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\hope\dyc520\dyc520\Status.cpp(89,21): warning C4244:  “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\hope\dyc520\dyc520\Status.cpp(161,24): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+D:\hope\dyc520\dyc520\Status.cpp(188,13): warning C4244:  “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\hope\dyc520\dyc520\windowsize.h(12,39): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+  dyc520.vcxproj -> D:\hope\dyc520\Debug\dyc520.exe
